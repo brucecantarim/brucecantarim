@@ -1,1 +1,1 @@
-[![Codersrank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brucecantarim&show-avatar=false&badges=3&style=--header-bg-color:%23000;)](https://profile.codersrank.io/user/brucecantarim)
+[![Codersrank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brucecantarim&show-avatar=false&style=--header-bg-color:%23000;)](https://profile.codersrank.io/user/brucecantarim)
