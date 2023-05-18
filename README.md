@@ -1,4 +1,4 @@
-![Codersrank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brucecantarim&show-avatar=false&style=--header-bg-color:%23000)](https://profile.codersrank.io/user/brucecantarim)
+[![Codersrank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brucecantarim&show-avatar=false&style=--header-bg-color:%23000)](https://profile.codersrank.io/user/brucecantarim)
 ### Experienced Senior Front End Engineer with 8+ yrs of professional experience in Javascript, Typescript, React, and Game Development.
 
 ⤷ I excel in creating interactive user interfaces using modern technologies. I have a strong background in game development and design and have worked on multiple projects using various frameworks and engines. My ability to communicate and collaborate effectively makes me a valuable asset to any team.
