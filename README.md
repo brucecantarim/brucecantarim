@@ -1,4 +1,3 @@
-[![Codersrank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brucecantarim&show-avatar=false&style=--header-bg-color:%23000)](https://profile.codersrank.io/user/brucecantarim)
 ### Senior Software Engineer | React, Typescript and AI Specialist | Front End Teacher | Game Developer
 
 ⤷ Hi there! I'm Bruce Cantarim, a Software Engineer with 10+ years of experience specializing in front-end development and consumer-facing applications. Expert in React, TypeScript, AI and modern web technologies. I bring an unique perspective from graphic design, marketing and gaming background to create exceptional user experiences.
